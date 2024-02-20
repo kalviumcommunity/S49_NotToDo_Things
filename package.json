@@ -1,0 +1,22 @@
+{
+  "name": "s49_nottodo_things",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/S49_NotToDo_Things.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/S49_NotToDo_Things/issues"
+  },
+  "homepage": "https://github.com/kalviumcommunity/S49_NotToDo_Things#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
