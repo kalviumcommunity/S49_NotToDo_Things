@@ -8,6 +8,6 @@ let UserSchema=new mongoose.Schema({
        }})
 
 let Data=mongoose.model("todo",UserSchema);
-console.log(Data)
+
 
 export default Data;
